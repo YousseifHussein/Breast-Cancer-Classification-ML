@@ -65,8 +65,19 @@ streamlit run app.py
 - requirements.txt
 
 
-## Video:
+## Screenshots
 
+### Application Interface
+
+![Application Interface](app_screenshot.png)
+
+### Prediction Result
+
+![Prediction Result](prediction_result.png)
+
+
+## Video:
+https://drive.google.com/drive/folders/1yuqDymQ1txpRLgnBFUfkCttjBom7UHwD?usp=drive_link
 
 ## Student Name:
 Yousseif Hussein Farghaly (221000443)
