@@ -64,16 +64,6 @@ streamlit run app.py
 - scaler.pkl
 - requirements.txt
 
-## Screenshots
-
-### Application Interface
-
-![Application Interface](app_screenshot.png)
-
-### Prediction Result
-
-![Prediction Result](prediction_result.png)
-
 
 ## Video:
 
